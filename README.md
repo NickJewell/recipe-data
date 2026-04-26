@@ -1,5 +1,7 @@
 # Recipe — data prep workflows for analysts, by analysts
 
+![Alt text](recipe-data.jpg)
+
 Every analyst has a version of the same problem: a painful, repetitive data transformation that lives in a maze of Excel formulas, a half-documented Python script, or someone's head. Every Monday, someone rebuilds the AR ageing report. Every quarter, someone reconciles the budget vs actuals by hand. Every week, someone copy-pastes the CRM export into a pivot table.
 
 **Recipe** turns those workflows into human-readable markdown files that Claude Code can execute against your data.
