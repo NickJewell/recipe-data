@@ -1,0 +1,20 @@
+# Source data — large binaries, often sensitive
+data/inputs/*.xlsx
+data/inputs/*.csv
+data/inputs/*.txt
+data/inputs/*.xls
+data/inputs/*.tsv
+# Keep sample fixtures checked in
+!data/inputs/sample/
+
+# Excel outputs — binary, not diffable; use run.json + step CSVs instead
+runs/*/output/
+data/outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env

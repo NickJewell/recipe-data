@@ -1,0 +1,26 @@
+opportunity_name,stage,amount,close_date,owner,created_date,closed_date
+Acme Corp - Annual License,Closed Won,45000,2024-01-15,Alice Chen,2023-10-01,2024-01-15
+TechStart Inc - Enterprise,deal won,"$28,500",15/01/2024,Bob Patel,2023-11-12,15/01/2024
+Riverside Group - Pro Plan,Won,12000,2024-02-03,Carol Smith,2023-12-01,2024-02-03
+Delta Systems - Expansion,Closed Won,"$67,200",20/02/2024,Alice Chen,2023-10-15,2024-02-20
+Nexus Retail - Platform,Won,33000,2024-03-10,Bob Patel,2024-01-05,2024-03-10
+Pinnacle Finance - SMB,Closed Lost,,2024-01-20,Carol Smith,2023-11-01,2024-01-20
+Summit Corp - Starter,deal lost,8500,28/01/2024,Alice Chen,2023-12-15,2024-01-28
+Crestview Ltd - API,Lost,4200,2024-02-14,Bob Patel,2024-01-10,2024-02-14
+Horizon Tech - Enterprise,Closed Lost,"$95,000",2024-03-01,Carol Smith,2023-09-20,2024-03-01
+Atlas Group - Pro,Negotiation/Review,"$54,000",2024-04-15,Alice Chen,2024-01-20,
+Vertex Partners - Annual,negotiation,"$38,500",30/04/2024,Bob Patel,2024-02-01,
+Meridian Co - Platform,In Negotiation,29000,2024-05-01,Carol Smith,2024-02-10,
+Solaris Inc - Enterprise,Proposal/Price Quote,"$112,000",2024-04-30,Alice Chen,2024-01-15,
+Quantum Labs - Pro,Proposal Sent,"$41,000",15/05/2024,Bob Patel,2024-02-20,
+Cascade Corp - Starter,Perception Analysis,16500,2024-05-20,Carol Smith,2024-03-01,
+Ember Tech - Annual,proposal,"$23,000",2024-06-01,Alice Chen,2024-03-10,
+Apex Dynamics - SMB,Demo Scheduled,19000,2024-05-15,Bob Patel,2024-03-15,
+Nimbus Cloud - Enterprise,Value Proposition,"$88,000",2024-06-10,Carol Smith,2024-02-28,
+Stratos Inc - API,Id. Decision Makers,"$34,000",2024-06-30,Alice Chen,2024-03-20,
+Prism Analytics - Annual,Qualification,15000,2024-07-15,Carol Smith,2024-04-10,
+Zenith Corp - Starter,Needs Analysis,9500,01/08/2024,Alice Chen,2024-04-15,
+BlueShift Inc - Growth,Prospecting,,2024-08-15,Bob Patel,2024-05-15,
+Fulcrum Tech - Pro,Prospecting,,2024-08-30,Carol Smith,2024-05-20,
+Lumen Group - Expansion,Demo Scheduled,"$52,000",2023-06-15,Bob Patel,2023-03-10,
+Orbit Solutions - Platform,Qualification,44000,2023-08-20,Alice Chen,2023-05-01,
